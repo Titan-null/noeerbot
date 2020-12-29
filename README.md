@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="#C47B07" src="https://img.shields.io/badge/#C47B07-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Titan-null" src="https://img.shields.io/badge/C47B07-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Titan-null"><img title="Author" src="https://img.shields.io/badge/AUTHOR-TITAN NULL-orange.svg?style=for-the-badge&logo=github"></a>
