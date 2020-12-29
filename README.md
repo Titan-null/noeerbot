@@ -16,7 +16,7 @@
 <a href="https://www.codefactor.io/repository/github/Titan-null/noeerbot"><img title="Rating" src="https://www.codefactor.io/repository/github/Titan-null/noeerbot/badge/main"></a>
 </p>
 <p align="center">
-<a href="https://github.com/testingBOT9/matbot/followers"><img title="Followers" src="https://img.shields.io/github/follower?testingBOT9?color=blue&style=flat-square"></a>
+<a href="https://github.com/testingBOT9/matbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/testingBOT9?color=blue&style=flat-square"></a>
 <a href="https://github.com/testingBOT9/matbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/testingBOT9/matbot?color=red&style=flat-square"></a>
 <a href="https://github.com/testingBOT9/matbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/testingBOT9/matbot?color=red&style=flat-square"></a>
 <a href="https://github.com/testingBOT9/matbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/testingBOT9/matbot?label=Watchers&color=blue&style=flat-square"></a>
